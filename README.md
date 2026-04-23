@@ -1,3 +1,4 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Cadno_xnAMXWQrche1-7GhbC0__FXGEv?usp=sharing)
 # Image Classification using Feedforward Neural Networks (Fashion MNIST)
 
 ## Project Overview
